@@ -5,6 +5,12 @@
   <strong>ReadyAI</strong> is an innovative AI-powered platform meticulously designed for comprehensive interview preparation. 
   It leverages structured self-assessment techniques to provide unparalleled feedback, ensuring users are thoroughly prepared for their next big opportunity.
 </p>
+<p>
+  Moqups: https://anjanasruthir.github.io/Prototype_Personal-AI-Interview-Coach/
+</p>
+<p>
+  Figma: https://www.figma.com/proto/C1ofOwcM8VvzDnZiBbZ2FN/Prototype_Personal-AI-Interview-Coach?node-id=0-1&t=pVb04kHatscBerFO-1
+</p>
 
 <hr />
 
